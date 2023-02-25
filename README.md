@@ -16,18 +16,6 @@
 ```
 
 ### 4. CS 질문 (⭐️ 표시는 한 번 이상 기술 면접에서 질문 받은 내용)
-
-- 예상질문 블로그
-    
-    [백엔드 신입 면접질문 공부(자바 Java)](https://cano721.tistory.com/m/131)
-    
-    [백엔드 신입 면접질문 공부(스프링 Spring & JPA)](https://cano721.tistory.com/m/185)
-    
-    [백엔드 신입 면접질문 공부 (디비 DB)](https://cano721.tistory.com/m/187)
-    
-    [백엔드 면접질문 공부 (네트워크 Network)](https://cano721.tistory.com/m/188)
-    
-    [백엔드 면접질문 공부(운영체제 OS)](https://cano721.tistory.com/m/189)
     
 - 객체지향 프로그래밍
     - 객체지향 프로그래밍(OOP)이란?
